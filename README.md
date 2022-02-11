@@ -1,7 +1,11 @@
 
 # Jornada Seja Grato
 
-Danilo Cavalcante
+Autor: Danilo Cavalcante
+
+SEJA GRATO
+FATOS ESQUECIDOS
+BREVE JORNADA DE 200 ANOS
 
 📚 Historiador por formação, doador de memórias por vocação.
 
