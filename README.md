@@ -1,4 +1,10 @@
 
+<p align=center>
+			<a href="https://jornada-seja-grato-araguaci.vercel.app/">
+				<img align="center" src="https://img.shields.io/badge/jornadasejagrato-a2681a?logo=javascript&logoColor=fff&style=flat" alt="portfolio-particles">
+			</a>
+		</p>
+  
 # Jornada Seja Grato
 
 Autor: Danilo Cavalcante
